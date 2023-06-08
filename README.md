@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sandeep</h1>
+<h3 align="center">Student at CE-UOP.</h3>
 
-<!--
-**G5andeepD/G5andeepD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=G5andeepD&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+
+- 🌱 I’m currently learning Web Development and other programming languages
+
+- 📫 How to reach me **gdasanayake54@gmail.com**
+
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+
+<br>
