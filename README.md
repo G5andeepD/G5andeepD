@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
 <h3 align="center">A passionate Computer Engineering Student from UOP Sri Lanka</h3>
 
-- 🔭 I’m currently working on [Sproutopia](https://github.com/cepdnaclk/e19-co225-Baby-Developing-Tracking-System-Web-Application)
+- 🔭 I’m currently working on [TravelX](https://github.com/TeamUnicus/Coders_TravelX)
 
 - 🌱 I’m currently learning **Spring Boot**
 
