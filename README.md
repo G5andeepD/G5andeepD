@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Visitlog](https://github.com/G5andeepD/e19-co227-digital-reporting-of-technical-visits)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Pytorch**
 
 - 👯 I’m looking to collaborate on [Calm Quest](https://github.com/Team-CookieBytes/ACES-Hackathon-Cookie-Bytes-Calm-Quest-Back-End/)
 
