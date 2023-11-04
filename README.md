@@ -22,3 +22,5 @@
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/G5andeepD/langs)](https://githubtrends.io)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=G5andeepD&" alt="G5andeepD" /></p>
+
