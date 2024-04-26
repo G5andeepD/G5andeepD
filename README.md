@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
 <h3 align="center">A passionate Computer Engineering Student from UOP Sri Lanka</h3>
 
-- 🔭 I’m currently working on [Visitlog](https://github.com/G5andeepD/e19-co227-digital-reporting-of-technical-visits)
+- 🔭 I’m currently working on [Beeezee](https://github.com/cepdnaclk/e19-3yp-beehive-monitoring-system)
 
 - 🌱 I’m currently learning **Pytorch**
 
