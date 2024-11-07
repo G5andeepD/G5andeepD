@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Beezee](https://github.com/cepdnaclk/e19-3yp-beehive-monitoring-system)
 
-- 🌱 I’m currently learning **Hardware Software Co-design with FPGA Tools**
-
 - 👯 I’m looking to collaborate on [Calm Quest](https://github.com/Team-CookieBytes/ACES-Hackathon-Cookie-Bytes-Calm-Quest-Back-End/)
 
 - 📫 How to reach me **e19063@eng.pdn.ac.lk**
