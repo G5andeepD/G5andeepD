@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
-<h3 align="center">Software Engineering Intern at WSO2 | Computer Engineering Student from UOP Sri Lanka</h3>
+<h3 align="center">Final Year Computer Engineering Student from UOP Sri Lanka</h3>
 
 - 🔭 I’m currently working on [Beezee](https://github.com/cepdnaclk/e19-3yp-beehive-monitoring-system)
 
